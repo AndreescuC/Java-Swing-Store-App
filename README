@@ -1,0 +1,1 @@
+The application gets its customers-related input from the customers.txt file and the details about the product inventory from the store.txt file. It can either simulate an online shop  environment by running the GUI.java source file or directly output (output.txt) the results obtained by applying the given events (events.txt) by running the Test.java source file.
